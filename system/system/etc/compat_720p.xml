@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<compatComfig>
+    <hdConfig>720p</hdConfig>
+    <defcompatSize>1.5</defcompatSize>
+    <forceStopAll>false</forceStopAll>
+
+    <application>
+	    <packageName>balls.arcademaker.bricks.breaker.brounce.ballz</packageName>
+	    <compatSize>1.5</compatSize>
+	    <forceCompat>true</forceCompat>
+    </application>
+
+    <application>
+	    <packageName>bubble.shoot.bubbles.game.saga.world</packageName>
+	    <forceStop>true</forceStop>
+    </application>
+
+    <application>
+	    <packageName>com.gameloft.android.GloftDHMP</packageName>
+	    <compatSize>2</compatSize>
+	    <forceStop>true</forceStop>
+    </application>
+
+    <application>
+	    <packageName>com.dts.freefireth</packageName>
+	    <compatSize>1.3</compatSize>
+	    <forceStop>true</forceStop>
+    </application>
+
+    <application>
+	    <packageName>com.igg.android.lordsmobile</packageName>
+	    <compatSize>1.1</compatSize>
+	    <forceStop>true</forceStop>
+    </application>
+
+    <application>
+	    <packageName>com.supercell.brawlstars</packageName>
+	    <compatSize>1.3</compatSize>
+	    <forceStop>true</forceStop>
+    </application>
+
+    <application>
+	    <packageName>com.tencent.ig</packageName>
+	    <compatSize>1.1</compatSize>
+	    <forceStop>true</forceStop>
+    </application>
+
+    <application>
+	    <packageName>com.mobile.legends</packageName>
+	    <compatSize>1.1</compatSize>
+	    <forceStop>true</forceStop>
+    </application>
+
+    <application>
+	    <packageName>com.activision.callofduty.shooter</packageName>
+	    <compatSize>1.1</compatSize>
+	    <forceStop>true</forceStop>
+    </application>
+</compatComfig>

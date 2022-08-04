@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="com.android.modemnotifier">
+        <permission name="unisoc.permission.MODEMNOTIFIER_MODEM_STATE"/>
+    </privapp-permissions>
+</permissions>

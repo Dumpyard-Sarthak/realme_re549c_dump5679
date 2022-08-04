@@ -1,0 +1,16 @@
+ro.com.google.clientidbase=android-oppo
+ro.com.google.clientidbase.ms=android-oppo-rvo3
+ro.com.google.clientidbase.tx=android-oppo-rvo3
+ro.com.google.clientidbase.vs=android-oppo-rvo3
+ro.com.google.rlz_ap_whitelist=YF
+ro.com.google.rlzbrandcode=OPPO
+ro.build.display.id=RMX3516NONEEA_11_A.27
+ro.build.version.ota=RMX3516NONEEA_11.A.27_0270_202205150226
+ro.product.model=RMX3516
+ro.product.system.model=RMX3516
+ro.product.system.name=RMX3516BA
+ro.product.name=RMX3516BA
+ro.product.device=RE54D8L1
+ro.system.build.fingerprint=realme/RMX3516BA/RE54D8L1:11/RP1A.201005.001/1652551200000:user/release-keys
+ro.build.fingerprint=realme/RMX3516BA/RE54D8L1:11/RP1A.201005.001/1652551200000:user/release-keys
+ro.oppo.market.name=realme narzo 50A Prime

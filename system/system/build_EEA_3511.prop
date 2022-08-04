@@ -1,0 +1,17 @@
+ro.com.google.clientidbase=android-oppo
+ro.com.google.clientidbase.ms=android-oppo-rvo3
+ro.com.google.clientidbase.tx=android-oppo-rvo3
+ro.com.google.clientidbase.vs=android-oppo-rvo3
+ro.com.google.rlz_ap_whitelist=YF
+ro.com.google.rlzbrandcode=OPPO
+ro.oppo.rlz_ap_whitelist=YH,YJ,YG
+ro.build.display.id=RMX3511EU_11_A.27
+ro.build.version.ota=RMX3511EU_11.A.27_0270_202205150226
+ro.product.model=RMX3511
+ro.product.system.model=RMX3511
+ro.product.device=RE87BAL1
+ro.product.system.name=RMX3511EEA
+ro.product.name=RMX3511EEA
+ro.system.build.fingerprint=realme/RMX3511EEA/RE87BAL1:11/RP1A.201005.001/1652551200000:user/release-keys
+ro.build.fingerprint=realme/RMX3511EEA/RE87BAL1:11/RP1A.201005.001/1652551200000:user/release-keys
+ro.oppo.market.name=realme C35

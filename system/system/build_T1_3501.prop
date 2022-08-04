@@ -1,0 +1,17 @@
+ro.com.google.clientidbase=android-oppo
+ro.com.google.clientidbase.ms=android-oppo-rvo3
+ro.com.google.clientidbase.tx=android-oppo-rvo3
+ro.com.google.clientidbase.vs=android-oppo-rvo3
+ro.com.google.rlz_ap_whitelist=YF
+ro.com.google.rlzbrandcode=OPPO
+ro.build.display.id=RMX3501PU_11_A.27
+ro.build.version.ota=RMX3501PU_11.A.27_0270_202205150226
+ro.product.model=RMX3501
+ro.product.system.model=RMX3501
+ro.product.system.name=RMX3501
+ro.product.name=RMX3501
+ro.product.device=RE549C
+ro.system.build.fingerprint=realme/RMX3501/RE549C:11/RP1A.201005.001/1652551200000:user/release-keys
+ro.build.fingerprint=realme/RMX3501/RE549C:11/RP1A.201005.001/1652551200000:user/release-keys
+ro.oppo.market.name=realme C31
+ro.build.version.base_os=realme/RMX3501/RE549C:11/RP1A.201005.001/1647595800000:user/release-keys

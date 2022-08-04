@@ -1,0 +1,6 @@
+ro.product.vendor.model=RMX3503
+ro.product.vendor.device=RE549C
+ro.product.vendor.name=RMX3503EEA
+ro.bootimage.build.fingerprint=realme/RMX3503EEA/RE549C:11/RP1A.201005.001/1652551200000:user/release-keys
+ro.vendor.build.fingerprint=realme/RMX3503EEA/RE549C:11/RP1A.201005.001/1652551200000:user/release-keys
+ro.vendor.oppo.market.name=realme C31

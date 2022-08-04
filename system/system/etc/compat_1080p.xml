@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<compatComfig>
+    <hdConfig>1080p</hdConfig>
+    <defcompatSize>1.5</defcompatSize>
+    <forceStopAll>false</forceStopAll>
+
+    <application>
+	    <packageName>com.dts.freefireth</packageName>
+	    <compatSize>1.7</compatSize>
+	    <forceStop>true</forceStop>
+    </application>
+    <application>
+	    <packageName>com.tencent.godgame</packageName>
+	    <compatSize>1.7</compatSize>
+	    <forceStop>true</forceStop>
+    </application>
+    <application>
+	    <packageName>com.activision.callofduty.shooter</packageName>
+	    <compatSize>1.7</compatSize>
+	    <forceStop>true</forceStop>
+    </application>
+    <application>
+	    <packageName>com.igg.android.lordsmobile</packageName>
+	    <compatSize>1.5</compatSize>
+	    <forceStop>true</forceStop>
+    </application>
+    <application>
+	    <packageName>com.lilithgame.roc.gp</packageName>
+	    <compatSize>1.5</compatSize>
+	    <forceStop>true</forceStop>
+    </application>
+
+    <application>
+	    <packageName>jp.konami.pesam</packageName>
+	    <compatSize>1.5</compatSize>
+	    <forceStop>true</forceStop>
+    </application>
+    <application>
+	    <packageName>com.tencent.ig</packageName>
+	    <compatSize>1.5</compatSize>
+	    <forceStop>true</forceStop>
+    </application>
+    <application>
+	    <packageName>com.supercell.brawlstars</packageName>
+	    <compatSize>1.5</compatSize>
+	    <forceStop>true</forceStop>
+    </application>
+    <application>
+	    <packageName>com.mobile.legends</packageName>
+	    <compatSize>1.5</compatSize>
+	    <forceStop>true</forceStop>
+    </application>
+    <application>
+	    <packageName>com.ngame.allstar.eu</packageName>
+	    <compatSize>1.5</compatSize>
+	    <forceStop>true</forceStop>
+    </application>
+</compatComfig>

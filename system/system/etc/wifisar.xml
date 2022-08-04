@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wifisar>
+    <project name="NICO">
+       <region name="Asia-IN">
+            <wifi_head_sar>4,0,0,0</wifi_head_sar>
+            <wifi_body_sar>0,0,0,0</wifi_body_sar>
+            <gsm_wifi_head_sar>4,0,0,0</gsm_wifi_head_sar>
+            <gsm_wifi_body_sar>0,0,0,0</gsm_wifi_body_sar>
+        </region>
+        <region name="Asia-NoIN">
+            <wifi_head_sar>2,0,0,0</wifi_head_sar>
+            <wifi_body_sar>1,0,0,0</wifi_body_sar>
+            <gsm_wifi_head_sar>3,0,0,0</gsm_wifi_head_sar>
+            <gsm_wifi_body_sar>4,0,0,0</gsm_wifi_body_sar>
+        </region>
+        <region name="TH-VN">
+            <wifi_head_sar>2,0,0,0</wifi_head_sar>
+            <wifi_body_sar>1,0,0,0</wifi_body_sar>
+            <gsm_wifi_head_sar>3,0,0,0</gsm_wifi_head_sar>
+            <gsm_wifi_body_sar>4,0,0,0</gsm_wifi_body_sar>
+        </region>
+        <region name="VDF">
+            <wifi_head_sar>3,0,0,0</wifi_head_sar>
+            <wifi_body_sar>2,0,0,0</wifi_body_sar>
+            <gsm_wifi_head_sar>7,0,0,0</gsm_wifi_head_sar>
+            <gsm_wifi_body_sar>4,0,0,0</gsm_wifi_body_sar>
+        </region>
+        <region name="EU">
+            <wifi_head_sar>3,0,0,0</wifi_head_sar>
+            <wifi_body_sar>2,0,0,0</wifi_body_sar>
+            <gsm_wifi_head_sar>7,0,0,0</gsm_wifi_head_sar>
+            <gsm_wifi_body_sar>4,0,0,0</gsm_wifi_body_sar>
+        </region>
+        <region name="GLOBAL-EU">
+            <wifi_head_sar>3,0,0,0</wifi_head_sar>
+            <wifi_body_sar>2,0,0,0</wifi_body_sar>
+            <gsm_wifi_head_sar>7,0,0,0</gsm_wifi_head_sar>
+            <gsm_wifi_body_sar>4,0,0,0</gsm_wifi_body_sar>
+        </region>
+       <region name="GLOBAL-FCC">
+            <wifi_head_sar>4,0,0,0</wifi_head_sar>
+            <wifi_body_sar>2,0,0,0</wifi_body_sar>
+            <gsm_wifi_head_sar>6,0,0,0</gsm_wifi_head_sar>
+            <gsm_wifi_body_sar>4,0,0,0</gsm_wifi_body_sar>
+        </region>
+       <region name="ALL">
+            <wifi_head_sar>2,0,0,0</wifi_head_sar>
+            <wifi_body_sar>1,0,0,0</wifi_body_sar>
+            <gsm_wifi_head_sar>3,0,0,0</gsm_wifi_head_sar>
+            <gsm_wifi_body_sar>4,0,0,0</gsm_wifi_body_sar>
+        </region>
+    </project>
+    <project name="NICKY">
+        <region name="Asia-IN">
+            <wifi_head_sar>6,6,4,3</wifi_head_sar>
+            <wifi_body_sar>1,2,2,1</wifi_body_sar>
+            <gsm_wifi_head_sar>7,8,6,5</gsm_wifi_head_sar>
+            <gsm_wifi_body_sar>2,4,4,3</gsm_wifi_body_sar>
+        </region>
+        <region name="Asia-NoIN">
+            <wifi_head_sar>3,0,1,0</wifi_head_sar>
+            <wifi_body_sar>1,2,2,1</wifi_body_sar>
+            <gsm_wifi_head_sar>7,4,5,4</gsm_wifi_head_sar>
+            <gsm_wifi_body_sar>5,5,6,5</gsm_wifi_body_sar>
+        </region>
+        <region name="TH-VN">
+            <wifi_head_sar>3,0,1,0</wifi_head_sar>
+            <wifi_body_sar>1,2,2,1</wifi_body_sar>
+            <gsm_wifi_head_sar>7,4,5,4</gsm_wifi_head_sar>
+            <gsm_wifi_body_sar>5,5,6,5</gsm_wifi_body_sar>
+        </region>
+        <region name="VDF">
+            <wifi_head_sar>4,1,1,1</wifi_head_sar>
+            <wifi_body_sar>2,3,3,2</wifi_body_sar>
+            <gsm_wifi_head_sar>8,6,6,5</gsm_wifi_head_sar>
+            <gsm_wifi_body_sar>5,7,8,7</gsm_wifi_body_sar>
+        </region>
+        <region name="EU">
+            <wifi_head_sar>4,1,1,1</wifi_head_sar>
+            <wifi_body_sar>2,3,3,2</wifi_body_sar>
+            <gsm_wifi_head_sar>8,6,6,5</gsm_wifi_head_sar>
+            <gsm_wifi_body_sar>5,7,8,7</gsm_wifi_body_sar>
+        </region>
+        <region name="GLOBAL-EU">
+            <wifi_head_sar>4,1,1,1</wifi_head_sar>
+            <wifi_body_sar>2,3,3,2</wifi_body_sar>
+            <gsm_wifi_head_sar>8,6,6,5</gsm_wifi_head_sar>
+            <gsm_wifi_body_sar>5,7,8,7</gsm_wifi_body_sar>
+        </region>
+       <region name="GLOBAL-FCC">
+            <wifi_head_sar>6,6,5,5</wifi_head_sar>
+            <wifi_body_sar>1,4,5,4</wifi_body_sar>
+            <gsm_wifi_head_sar>7,8,9,8</gsm_wifi_head_sar>
+            <gsm_wifi_body_sar>4,7,8,7</gsm_wifi_body_sar>
+        </region>
+       <region name="ALL">
+            <wifi_head_sar>3,0,1,0</wifi_head_sar>
+            <wifi_body_sar>1,2,2,1</wifi_body_sar>
+            <gsm_wifi_head_sar>7,4,5,4</gsm_wifi_head_sar>
+            <gsm_wifi_body_sar>5,5,6,5</gsm_wifi_body_sar>
+        </region>
+    </project>
+</wifisar>
